@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "asset_id": "kenney.watercraft-kit.2.1",
+  "title": "Kenney Watercraft Kit 2.1",
+  "creator": "Kenney",
+  "official_url": "https://kenney.nl/assets/watercraft-kit",
+  "license": "CC0 1.0 Universal",
+  "license_file": "LICENSE.txt",
+  "retrieval_date": "2026-08-15",
+  "archive": {
+    "filename": "kenney_watercraft-pack.zip",
+    "sha256": "cd1470c1cf441c7f46d0944ae6d0d897242365dc97677c5079b3238965d659f3"
+  },
+  "imported_files": [
+    "Models/boat-row-small.fbx",
+    "Models/boat-sail-a.fbx",
+    "Models/boat-sail-b.fbx",
+    "Models/buoy-flag.fbx",
+    "Models/cargo-pile-a.fbx",
+    "Models/ramp-wide.fbx",
+    "Models/ship-cargo-a.fbx",
+    "Models/ship-large.fbx",
+    "Models/ship-small-ghost.fbx",
+    "Models/ship-small.fbx",
+    "Textures/colormap.png"
+  ],
+  "notes": "Bounded FBX subset for Tetherfall canal traffic, ocean routes, docks, cargo, navigation markers, and a spectral deep-water landmark. OBJ, GLB, previews, documentation, modern speedboats, liners, towboats, and unused props were excluded."
+}
